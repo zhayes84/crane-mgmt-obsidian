@@ -1,0 +1,17 @@
+- **First name** (unique)
+	- one per contact
+- **Last name** (unique)
+	- one per contact
+- **Email** (unique)
+	- Multiple per contact 
+	- Multiple contacts could potentially have the same email address
+- **Phone number(s)** (not unique)
+	- Multiple per contact
+	- Multiple contacts could potentially have the same phone number(s)
+- **Socials**
+    - LinkedIn (unique)
+	    - One LinkedIn account per contact, unique
+- **Jobs** 
+	- Multiple per contact
+	- Many jobs to many contacts
+	- Not sure how to annotate this but each job is unique to itself but personnel can be associated with many jobs
